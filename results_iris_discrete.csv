@@ -1,0 +1,4 @@
+,Explanation,Metric Result
+0,petal L 0-2 & petal W 0-0.5,100.0
+1,(petal W 0.5-1 & ~petal W 1-1.5) | (petal W 1-1.5 & ~petal W 0.5-1),85.16129032258064
+2,(sepal L 7-10 & ~petal L 4-6 & ~petal W 0.5-1 & ~petal W 1-1.5) | (petal L 4-6 & ~sepal L 7-10 & ~petal W 0.5-1 & ~petal W 1-1.5),86.00405679513185
